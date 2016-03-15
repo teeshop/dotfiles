@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/usr/share/emacs/site-lisp/lua-mode'
+let g:netrw_dirhist_2='/home/jan/rexgen/src/librexgen'
+let g:netrw_dirhist_3='/home/jan/hardening-scripts/python/hardening/configuration'
+let g:netrw_dirhist_4='/usr/portage/app-vim/colorschemes'
