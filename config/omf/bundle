@@ -1,0 +1,4 @@
+package gi
+theme cbjohnson
+theme default
+theme gitstatus
